@@ -21,5 +21,7 @@ class View():
                     row['publishing_date'].strftime("%H:%M")
                 ))
                 print("\n------------------------------")
+
+
         else:
             print("no message actually")
